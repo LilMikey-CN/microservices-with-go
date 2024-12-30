@@ -1,0 +1,3 @@
+# ignore DS_Store files in all locations
+
+**/.DS_Store
